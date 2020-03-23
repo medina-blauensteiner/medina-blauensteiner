@@ -2604,9 +2604,10 @@ html.no-csstransitions .intro-content__bottom {
   display: flex;
   list-style: none;
   margin: 0;
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 6.8rem;
   position: relative;
+  font-weight: bold;
 }
 
 .tab-nav__list li {
