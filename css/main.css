@@ -184,6 +184,15 @@ p img {
   margin: 0;
 }
 
+txt-content {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 2.6rem;
+    line-height: 1.846;
+    margin-bottom: 3.6rem;
+    color: #000000;
+}
+
 p.lead {
   font-family: sans-serif;
   font-weight: 400;
@@ -468,7 +477,7 @@ table {
   border-width: 0;
   width: 100%;
   max-width: 100%;
-  font-family: "Gothic A1", sans-serif;
+  font-family: sans-serif;
   border-collapse: collapse;
 }
 
@@ -481,7 +490,7 @@ td {
 
 th {
   color: #000000;
-  font-family: "Gothic A1", sans-serif;
+  font-family: sans-serif;
   font-weight: 700;
 }
 
