@@ -2703,7 +2703,7 @@ html.no-csstransitions .intro-content__bottom {
 /* tab contact bottom
  * -------------------------------------- */
 .contact-email {
-  display: inline-block;
+  /*display: inline-block;*/
   font-family: sans-serif;
   font-size: 5rem;
   font-weight: 700;
@@ -2727,12 +2727,13 @@ html.no-csstransitions .intro-content__bottom {
 }
 
 .contact-number a {
-  color: #000000;
+  color: #8dc63f;
+  /*color: #000000;*/
 }
 
 .contact-number a:hover,
 .contact-number a:focus {
-  color: #8dc63f;
+  color: #000000;
 }
 
 .contact-number a::after {
