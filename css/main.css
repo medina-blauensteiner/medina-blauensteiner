@@ -432,6 +432,21 @@ ul.disc li::before {
   vertical-align: middle;
 }
 
+ul.lead {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 2.6rem;
+  line-height: 1.846;
+  margin-bottom: 3.6rem;
+  color: #000000;
+}
+
 dt {
   margin: 0;
   color: #8dc63f;
